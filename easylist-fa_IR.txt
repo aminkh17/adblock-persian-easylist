@@ -1,0 +1,21 @@
+[Adblock Plus 2.0]
+! Version: 201605120000
+! Title: Persian EasyList
+! Homepage: https://github.com/aminkh17/adblock-persian-easylist
+! Licence: https://easylist-downloads.adblockplus.org/COPYING
+! Author: Aminkh17 and friends:
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+&ad_box_
+&ad_banner=
+&ad_classid=
+&ad_height=
+&ad_keyword=
+&ad_network_
+&ad_number=
+&ad_type=
+&ad_type_
