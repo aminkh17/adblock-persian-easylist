@@ -8,10 +8,12 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 https://en.wikipedia.org/wiki/AdBlock
 <div dir="rtl">
 ادبلاک افزونه ای است در جهت فیلتر کردن محتواها که در مرورگرهای کروم گوگل، فایرفاکس موزیلا، اپرا و جدیدا ایدج ویندوز 10 و جدیدا آیفون و آیپد نصب می شود.
-
+</div>
 ## افزونه چیست و چگونه نصب کنیم؟
 
 ## چگونه می توانیم کمک کنیم؟
+<div dir="rtl">
 فایل موجود در این مخزن را باز نمایید و کلمات و نوشته های مورد نظر برای فیلتر مورد نظر خود را در ادامه فایل زیر اضافه نمایید.
-easylist-fa_IR.txt
 </div>
+easylist-fa_IR.txt
+
